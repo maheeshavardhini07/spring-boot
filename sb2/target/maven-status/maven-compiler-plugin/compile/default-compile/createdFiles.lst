@@ -1,0 +1,7 @@
+com\kgisl\sb2\repository\StudentRepository.class
+com\kgisl\sb2\service\StudentService.class
+com\kgisl\sb2\controller\StudentController.class
+com\kgisl\sb2\Sb2Application.class
+com\kgisl\sb2\service\StudentServiceImpl.class
+com\kgisl\sb2\controller\Sb2Controller.class
+com\kgisl\sb2\model\Student.class
